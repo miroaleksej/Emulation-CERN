@@ -1,5 +1,7 @@
 # 🌌 Большой адронный коллайдер: Учебная модель с визуализацией
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa819c6e-26fa-4bfa-90c6-9f94eb66c862" />
+
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![CERN](https://img.shields.io/badge/CERN-Official_Data-brightgreen)](https://home.cern/)
