@@ -1,5 +1,7 @@
 # OpenParticleLab Framework
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/169f4c43-2468-4076-9b0d-949999452d0f" />
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
 [![Dependencies](https://img.shields.io/badge/Dependencies-NumPy%2C%20Matplotlib-orange)](requirements.txt)
