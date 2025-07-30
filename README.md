@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.qpp" alt="visitors">
 
- <p align="center">
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://python.org)
 [![Dependencies](https://img.shields.io/badge/Dependencies-NumPy%2C%20Matplotlib-orange)](requirements.txt)
