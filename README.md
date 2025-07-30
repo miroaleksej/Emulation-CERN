@@ -187,3 +187,7 @@ numba>=0.56.0
 ---
 
 > "Если бы природа хотела, чтобы мы изучали Вселенную на больших энергиях, она бы сделала её больше." - Дэвид Гросс (Нобелевская премия по физике, 2004)
+
+___
+
+`#QuantumPhysics` `#ParticlePhysics` `#CERN` `#LHC` `#TopologicalDataAnalysis` `#TDA` `#AnomalyDetection`
