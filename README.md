@@ -2,6 +2,9 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b18e5fc3-1a20-4544-8179-0442c3af8fee" />
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Unified LHC Framework** — это прототип продвинутого, гибридного программного фреймворка для симуляции и анализа данных Большого адронного коллайдера (LHC). Этот проект вдохновлен идеями из топологического и градиентного анализа  и направлен на создание нового поколения инструментов для физики высоких энергий.
